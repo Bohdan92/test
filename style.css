@@ -1,0 +1,109 @@
+#page{
+    width: 1200px;
+    margin-left: 120px;
+    margin-right: 120px; 
+  }
+  header{
+    width: 1200px;
+    height: 100px;
+    background: #656D97;
+    margin-bottom: 5px;
+    background: url(peslogo.png) ;
+    background-repeat: no-repeat;
+    background-position-x: 210px;
+  }
+  nav{
+    height: 100px;
+    width:200px;
+    float: left;
+    background: #656D97;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding-top: 45px;
+    background-image: url(legends.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+  }
+  .section{
+    height: 1000px;
+    width: 790px;
+    float:left;
+    
+    margin-right: 5px;
+    margin-bottom: 5px;
+    
+  }
+
+   .section-1{
+    height: 70px;
+    width: 256.66667px;
+    margin-right: 5px;
+    margin-left: 5px;
+    float: left;
+    background:#656D97;
+    text-align: center;
+  }
+  .section-2{
+    height: 70px;
+    width: 256.66667px;
+    margin-right: 5px;
+    float: left;
+    background:#656D97;
+    text-align: center;
+  }
+    
+    .section-3{
+      height: 70px;
+      width: 256.66667px;
+      float: left;
+      background:#656D97;
+      text-align: center;
+    }
+
+  sidebar{
+    height: 1000px;
+    width: 200px;
+    float:left;
+    background: #656D97;
+    padding-top: 45px;
+  }
+  footer{
+    height: 20px;
+    width: 1170px;
+    margin-top: 5px;
+    background: #656D97;
+    clear: both;
+    text-align: center;
+    padding: 15px;  
+  }
+  body{
+    font-size: 28px;
+    color:#FFFFFF;
+    background-image: url(pes18.jpg);
+    background-size: 150%;
+    opacity: 0.8;
+  
+  }
+  a{
+    color:#2AFD00;
+    text-decoration: none;
+  }
+  a:visited{
+    color: #FF0000;
+  }
+  a:hover{
+    text-decoration: none;
+    color: white;
+    background: #5692A1;
+  }
+  p:hover{
+    color:gold;
+    background:green;
+  }
+  ul:hover{
+    color:gold;
+    background:green;
+  }
+  
+  
